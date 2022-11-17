@@ -11,16 +11,16 @@ You can click the Preview link to take a look at your changes.
 
 # Job Profile and IT competencies of JSense-It
 
-**main description
-This is a ...
+**main description**
+This profile describes the services which i bring in to a contract or mandate. Also the location and domain for this services.
 
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
+  - [one shot](#my profile)
+  - [interests](#screenshot)
+  - [domains](#areas of expertise)
+- [Projects](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
