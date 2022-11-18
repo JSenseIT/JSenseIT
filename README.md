@@ -17,9 +17,9 @@ This profile describes the services which i bring in to a contract or mandate. A
 ## Table of contents
 
 - [Overview](#overview)
-  - [one shot](#my profile)
-  - [interests](#screenshot)
-  - [domains](#areas of expertise)
+  - [my profile](#my profile)
+  - [interests](#goals for the Job)
+  - [form of employment](#areas of expertise)
 - [Projects](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -36,7 +36,6 @@ This profile describes the services which i bring in to a contract or mandate. A
 
 **Industry software development: Trumpf Laser Systems**
 
-<img width="600" alt="image" src="https://user-images.githubusercontent.com/113790250/202732502-80e10875-3c1e-4133-9896-5f2de2fea35a.png">
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/113790250/202734638-13edb4b6-579a-41ef-b37f-44b7ef1886d1.png">
 
 
