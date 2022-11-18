@@ -17,8 +17,8 @@ This profile describes the services which i bring in to a contract or mandate. A
 ## Table of contents
 
 - [Overview](#overview)
-  - [my profile](#my profile)
-  - [interests](#goals for the Job)
+  - [my profile](#my-profile)
+  - [interests](#goals-for-the-Job)
   - [form of employment](#areas of expertise)
 - [Projects](#my-process)
   - [Built with](#built-with)
