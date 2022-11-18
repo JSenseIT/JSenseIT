@@ -32,10 +32,22 @@ This profile describes the services which i bring in to a contract or mandate. A
 
 ## Overview
 
-### The challenge
-
-- Build out the project to the designs provided
-
+### my Profile
+**Industry software development: Trumpf Laser Systems**
+Responsable for software development, mainly device/hw integration, software for automation, marking software tool chain
+- integration of devices for field bus connectivity and drive technology
+   - Topic: Software driver for real time and fieldbus connectivitiy, so that costumer can control the marking system in their production landscape 
+   - Parts: drivers created by software programming based on c++, testing with field system like plc
+   - acquired knowledge: Software Programming for device and processdata, technical knowledge of field and real time bus systems
+- integration of a new drive system for a ne designed workstation based on servo drives and intelligent steppers
+   - Topic: a new software modul, so the the workstation can controlled by the existing main Control Software
+   - Parts: tuning and configuration of the used drive systems, software developing of a modul which handles user inputs (e.g. positioning, initialization function)
+   - Part 2: handling the processed input and output command of the drive system via translation drive units to SI units (e.g. mm/s, mm, ...)
+   - Learnings: deep understanding of servo and stepper drives and motors, handling rs232 hw interface and protocol, more C++ knowledge
+- developing of a software for SAP to integrate the marking system as a printer for using it from SAP transactions
+   - Topic: Software driver for marking system side, developing page description language (PDL) and a Device Type on SAP side
+   - Parts: deveoping PDL in Abab, Devicetype definition, developing a generic windows driver to handle the output date comming from SAP print out
+   - Learnings: Abab Objects, SAP Spool Administration, interpretating Datastreams over parsing utf8 coded printouts (texts, fonts, pictures, lines)
 ### Screenshot
 
 ![](./screenshot.jpg)
