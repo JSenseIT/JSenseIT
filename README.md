@@ -33,7 +33,12 @@ This profile describes the services which i bring in to a contract or mandate. A
 ## Overview
 
 ### my Profile
+
 **Industry software development: Trumpf Laser Systems**
+
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/113790250/202732502-80e10875-3c1e-4133-9896-5f2de2fea35a.png">
+
+
 Responsable for software development, mainly device/hw integration, software for automation, marking software tool chain
 - integration of devices for field bus connectivity and drive technology
    - Topic: Software driver for real time and fieldbus connectivitiy, so that costumer can control the marking system in their production landscape 
