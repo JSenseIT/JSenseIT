@@ -37,6 +37,7 @@ This profile describes the services which i bring in to a contract or mandate. A
 **Industry software development: Trumpf Laser Systems**
 
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/113790250/202734638-13edb4b6-579a-41ef-b37f-44b7ef1886d1.png">
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/113790250/203994555-d4ffbb37-94e7-4e6f-8644-e1f711034ee4.png">
 
 
 Responsable for software development, mainly device/hw integration, software for automation, marking software tool chain
