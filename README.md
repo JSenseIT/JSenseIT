@@ -34,7 +34,7 @@ This profile describes the services which i bring in to a contract or mandate. A
 
 ### my Profile
 
-As a engineer in computer science (espacialy technical comuter science) i am willing to bring in all my experiance from diffrent areas like tool chain engineering, plant engineering or automation technology in to a contract or in freelance projects. I am responsable for data processing along the plants or devices to control them or to distrubute the data for further usings. My specialization is focused on SW programming, dealing with hardware and software interfaces to establish data oriented solutions. For this reasen my interests are to push IOT-Projects in Edge-computing in help customers, operator, owners for their applications.   
+As a engineer in computer science (espacialy technical comuter science) i am willing to bring in all my experiance from different areas like tool chain engineering, plant engineering or automation technology in to a contract or in freelance projects. I am responsable for data processing along the plants or devices to control them or to distrubute the technical data for further usings. My specialization is focused on SW programming, dealing with hardware and software interfaces to establish process-data oriented solutions. For this reasen my interests are to push IOT-Projects in Edge-computing in help customers, operator, owners for their applications.   
 I am experianced developer in tools Python, Node-Red, C++ and platforms like Android, rasberry pi, Arduino, ESP32-Family and Protocolls like Bluetooth, WIFI, REST (Architekture), Mqtt, TSP/IP, Serial communication, field bus systems and programmable logic controlers.
 
 **Industry software development: Trumpf Laser Systems**
