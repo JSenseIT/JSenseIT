@@ -40,8 +40,9 @@ I am experianced developer in tools Python, Node-Red, C++ and platforms like And
 **Industry software development: Trumpf Laser Systems**
 
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/113790250/202734638-13edb4b6-579a-41ef-b37f-44b7ef1886d1.png">
-<img width="600" alt="image" src="https://user-images.githubusercontent.com/113790250/203994555-d4ffbb37-94e7-4e6f-8644-e1f711034ee4.png">
 
+****
+****
 
 Responsable for software development, mainly device/hw integration, software for automation, marking software tool chain
 - integration of devices for field bus connectivity and drive technology
@@ -57,6 +58,11 @@ Responsable for software development, mainly device/hw integration, software for
    - Topic: Software driver for marking system side, developing page description language (PDL) and a Device Type on SAP side
    - Parts: deveoping PDL in Abab, Devicetype definition, developing a generic windows driver to handle the output date comming from SAP print out
    - Learnings: Abab Objects, SAP Spool Administration, interpretating Datastreams over parsing utf8 coded printouts (texts, fonts, pictures, lines)
+   
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/113790250/203994555-d4ffbb37-94e7-4e6f-8644-e1f711034ee4.png">
+
+
+
 ### Screenshot
 
 ![](./screenshot.jpg)
