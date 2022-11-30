@@ -37,12 +37,11 @@ This profile describes the services which i bring in to a contract or mandate. A
 As a engineer in computer science (espacialy technical comuter science) i am willing to bring in all my experiance from different areas like tool chain engineering, plant engineering or automation technology in to a contract or in freelance projects. I am responsable for data processing along the plants or devices to control them or to distrubute the technical data for further usings. My specialization is focused on SW programming, dealing with hardware and software interfaces to establish process-data oriented solutions. For this reasen my interests are to push IOT-Projects in Edge-computing in help customers, operator, owners for their applications.   
 I am experianced developer in tools Python, Node-Red, C++ and platforms like Android, rasberry pi, Arduino, ESP32-Family and Protocolls like Bluetooth, WIFI, REST (Architekture), Mqtt, TSP/IP, Serial communication, field bus systems and programmable logic controlers.
 
+****
 **Industry software development: Trumpf Laser Systems**
+****
 
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/113790250/202734638-13edb4b6-579a-41ef-b37f-44b7ef1886d1.png">
-
-****
-****
 
 Responsable for software development, mainly device/hw integration, software for automation, marking software tool chain
 - integration of devices for field bus connectivity and drive technology
@@ -59,6 +58,10 @@ Responsable for software development, mainly device/hw integration, software for
    - Parts: deveoping PDL in Abab, Devicetype definition, developing a generic windows driver to handle the output date comming from SAP print out
    - Learnings: Abab Objects, SAP Spool Administration, interpretating Datastreams over parsing utf8 coded printouts (texts, fonts, pictures, lines)
    
+****
+**software development in Equipment engineering : Endress und Hauser FLowtec**
+****
+
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/113790250/203994555-d4ffbb37-94e7-4e6f-8644-e1f711034ee4.png">
 
 
