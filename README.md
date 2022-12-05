@@ -64,7 +64,17 @@ Responsable for software development, mainly device/hw integration, software for
 
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/113790250/203994555-d4ffbb37-94e7-4e6f-8644-e1f711034ee4.png">
 
-
+**Role:** Responsable for software development in equipment engineering for flow meter calibrations rigs 
+- Support all calibration software based on C (Win CVI) for pressure, flow, mass calibration rigs
+- Software development new calibration software based on C# with the focus on Gateway programming for all processdata of calibration rigs
+   - Topic: programming Software assamblies (dlls) for gateway with OPC-UA support
+   - Parts: programming assembly for plc connectivity, OPC-UA Client, HMI based on WPF  
+   - acquired knowledge: C#, WPF, UPC-UA, process datafrom different bus systems over plc
+- Project dashboarding all flow calibration rigs in the world over one Gateway -Software based on OPC-UA and C#
+   - Topic:
+   - Parts:
+   - Part 2:
+   - Learnings: 
 
 ### Screenshot
 
