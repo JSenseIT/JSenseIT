@@ -1,4 +1,8 @@
-- 👋 Hi, I’m JSenseIT
+- 👋 Hi, I’m JSenseIT (compound with J Sense it)
+  - J -first letter of my christian name
+  - Sense: S first letter of my family name, Sense like feel, or sensor
+  - It : like information technology or it
+  - "J sense it" like feel it
 - 👀 I’m interested in IOT, Node-Red, smart home, smart building, smart industry,
 - 🌱 I’m currently learning python java script, node-red, 
 - 💞️ I’m looking to collaborate on iot-projects
